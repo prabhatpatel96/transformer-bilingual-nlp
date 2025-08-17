@@ -1,7 +1,7 @@
 # Transformer-Based Bilingual Text Generation (English ↔ Hindi)
 
 🚀 **Self Project** — Implementation of a custom Transformer model from scratch for **English–Hindi translation**, built without high-level Transformer libraries.
-
+**BLEU 27.8 and METEOR 0.41**
 ## 📌 Project Overview
 This project implements a Transformer architecture **entirely from scratch** in PyTorch for bilingual translation between English and Hindi. It is trained on the **IIT Bombay Parallel Corpus** and replicates both forward and backward passes using only PyTorch’s `autograd`, without relying on high-level APIs like `nn.Transformer`.
 
